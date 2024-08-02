@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Adrian",
+        "phone": "4444"
+    },
+    {
+        "name": "Claudius",
+        "phone": "48484"
+    },
+    {
+        "name": "Mama",
+        "phone": "43333"
+    }
+]
